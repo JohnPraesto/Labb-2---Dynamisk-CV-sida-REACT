@@ -70,16 +70,16 @@ li p{
 }
 
 .li8:hover{
-    background-color: rgb(70, 150, 187, .5);
+    background-color: rgb(70, 170, 187, .5);
     cursor: pointer;
 }
 
 .li9:hover{
-    background-color: rgb(50, 140, 187, .5);
+    background-color: rgb(50, 180, 187, .5);
     cursor: pointer;
 }
 
 .li10:hover{
-    background-color: rgb(30, 130, 187, .5);
+    background-color: rgb(20, 190, 187, .5);
     cursor: pointer;
 }
