@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    font-family: "Merienda", "Times New Roman";
+    font-size: 50px;
+    margin: 30px;
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+
+body{
+    background-color: rgb(219, 219, 219);
+    color: rgb(0, 0, 0);
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    margin-bottom: -1px;
+    /* width: 100vw; */
+    padding: 1rem;
+    border: 1px rgb(194, 194, 194) solid;
+    transition: background-color 0.3s;
+}
+
+h3{
+    margin-left: 20%;
+}
+
+li p{
+    margin-left: 20%;
+}
+
+.li1:hover{
+    background-color: rgb(200, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li2:hover{
+    background-color: rgb(180, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li3:hover{
+    background-color: rgb(160, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li4:hover{
+    background-color: rgb(140, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li5:hover{
+    background-color: rgb(120, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li6:hover{
+    background-color: rgb(100, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li7:hover{
+    background-color: rgb(80, 160, 187, .5);
+    cursor: pointer;
+}
+
+.li8:hover{
+    background-color: rgb(70, 150, 187, .5);
+    cursor: pointer;
+}
+
+.li9:hover{
+    background-color: rgb(50, 140, 187, .5);
+    cursor: pointer;
+}
+
+.li10:hover{
+    background-color: rgb(30, 130, 187, .5);
+    cursor: pointer;
+}

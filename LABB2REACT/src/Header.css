@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.link-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0rem;
+}
+
+.link-item1, .link-item2{
+    font-size: 4rem;
+    background-color: rgb(110, 160, 187);
+    text-decoration: none; /*denna tar bort strecket*/
+    color: rgb(20, 20, 100);
+    flex: 1; /*dennna fyller containern*/
+    padding: 1em;
+    text-align: center;
+}
+
+.link-item1:hover, .link-item2:hover{
+    background-color: rgb(100, 171, 187);
+}
+
